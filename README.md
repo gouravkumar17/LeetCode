@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [2792-neighboring-bitwise-xor](https://github.com/gouravkumar17/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 ## Bit Manipulation
 |  |
@@ -17,4 +18,16 @@
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gouravkumar17/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+## Matrix
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
