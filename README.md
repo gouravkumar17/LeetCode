@@ -14,6 +14,7 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/gouravkumar17/LeetCode/tree/master/0344-reverse-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gouravkumar17/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Prefix Sum
 |  |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [2685-first-completely-painted-row-or-column](https://github.com/gouravkumar17/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/gouravkumar17/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
