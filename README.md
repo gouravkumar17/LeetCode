@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [2145-grid-game](https://github.com/gouravkumar17/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/gouravkumar17/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2792-neighboring-bitwise-xor](https://github.com/gouravkumar17/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 ## Bit Manipulation
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gouravkumar17/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2145-grid-game](https://github.com/gouravkumar17/LeetCode/tree/master/2145-grid-game) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -32,6 +34,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [2145-grid-game](https://github.com/gouravkumar17/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/gouravkumar17/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Hash Table
 |  |
