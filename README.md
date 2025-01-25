@@ -12,6 +12,7 @@
 | [2145-grid-game](https://github.com/gouravkumar17/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/gouravkumar17/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2792-neighboring-bitwise-xor](https://github.com/gouravkumar17/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gouravkumar17/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/gouravkumar17/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gouravkumar17/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/gouravkumar17/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gouravkumar17/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Counting
 |  |
 | ------- |
