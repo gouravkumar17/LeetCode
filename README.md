@@ -33,6 +33,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0820-find-eventual-safe-states](https://github.com/gouravkumar17/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/gouravkumar17/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1558-course-schedule-iv](https://github.com/gouravkumar17/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/gouravkumar17/LeetCode/tree/master/1876-map-of-highest-peak) |
 ## Heap (Priority Queue)
 |  |
@@ -69,6 +70,7 @@
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/gouravkumar17/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/gouravkumar17/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1558-course-schedule-iv](https://github.com/gouravkumar17/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/gouravkumar17/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Union Find
 |  |
@@ -83,10 +85,12 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/gouravkumar17/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/gouravkumar17/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/gouravkumar17/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Topological Sort
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/gouravkumar17/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/gouravkumar17/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/gouravkumar17/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
