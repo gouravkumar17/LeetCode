@@ -5,12 +5,9 @@ class Solution {
         int sum = nums[0];
         for(int i=1;i<n;i++){
             if(nums[i]>nums[i-1]) sum = sum+nums[i];
-            else{
-                maxS = Math.max(maxS,sum);
-                sum = nums[i];
-            }
+            else sum = nums[i];
+            maxS = Math.max(maxS,sum);
         }
-        int res = Math.max(maxS,sum);
-        return res;
+        return maxS;
     }
 }
