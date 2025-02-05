@@ -29,6 +29,7 @@
 | ------- |
 | [0344-reverse-string](https://github.com/gouravkumar17/LeetCode/tree/master/0344-reverse-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gouravkumar17/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/gouravkumar17/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/gouravkumar17/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2685-first-completely-painted-row-or-column](https://github.com/gouravkumar17/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Two Pointers
 |  |
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/gouravkumar17/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/gouravkumar17/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Graph
 |  |
 | ------- |
