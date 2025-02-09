@@ -15,6 +15,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gouravkumar17/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/gouravkumar17/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/gouravkumar17/LeetCode/tree/master/2145-grid-game) |
+| [2448-count-number-of-bad-pairs](https://github.com/gouravkumar17/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/gouravkumar17/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gouravkumar17/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/gouravkumar17/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
@@ -69,6 +70,7 @@
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/gouravkumar17/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/gouravkumar17/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/gouravkumar17/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/gouravkumar17/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/gouravkumar17/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Two Pointers
@@ -109,6 +111,7 @@
 | [1364-tuple-with-same-product](https://github.com/gouravkumar17/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/gouravkumar17/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/gouravkumar17/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/gouravkumar17/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Graph
 |  |
 | ------- |
@@ -127,6 +130,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/gouravkumar17/LeetCode/tree/master/0066-plus-one) |
+| [2448-count-number-of-bad-pairs](https://github.com/gouravkumar17/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Simulation
 |  |
 | ------- |
