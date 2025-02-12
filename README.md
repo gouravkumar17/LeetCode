@@ -16,6 +16,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/gouravkumar17/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/gouravkumar17/LeetCode/tree/master/2145-grid-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/gouravkumar17/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gouravkumar17/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/gouravkumar17/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gouravkumar17/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/gouravkumar17/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
@@ -58,6 +59,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/gouravkumar17/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/gouravkumar17/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gouravkumar17/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/gouravkumar17/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/gouravkumar17/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/gouravkumar17/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gouravkumar17/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/gouravkumar17/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/gouravkumar17/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Two Pointers
@@ -85,6 +88,7 @@
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/gouravkumar17/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gouravkumar17/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gouravkumar17/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Search
 |  |
