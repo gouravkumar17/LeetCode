@@ -145,6 +145,7 @@
 | [0066-plus-one](https://github.com/gouravkumar17/LeetCode/tree/master/0066-plus-one) |
 | [1477-product-of-the-last-k-numbers](https://github.com/gouravkumar17/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/gouravkumar17/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/gouravkumar17/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -174,4 +175,5 @@
 |  |
 | ------- |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/gouravkumar17/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/gouravkumar17/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
