@@ -37,6 +37,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gouravkumar17/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/gouravkumar17/LeetCode/tree/master/0344-reverse-string) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/gouravkumar17/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gouravkumar17/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gouravkumar17/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -116,6 +117,7 @@
 | [0684-redundant-connection](https://github.com/gouravkumar17/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/gouravkumar17/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/gouravkumar17/LeetCode/tree/master/0854-making-a-large-island) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/gouravkumar17/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/gouravkumar17/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/gouravkumar17/LeetCode/tree/master/1558-course-schedule-iv) |
@@ -206,9 +208,11 @@
 ## Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/gouravkumar17/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/gouravkumar17/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
