@@ -159,6 +159,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/gouravkumar17/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/gouravkumar17/LeetCode/tree/master/0066-plus-one) |
 | [1477-product-of-the-last-k-numbers](https://github.com/gouravkumar17/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/gouravkumar17/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
