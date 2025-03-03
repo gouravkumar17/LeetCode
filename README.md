@@ -6,6 +6,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/gouravkumar17/LeetCode/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gouravkumar17/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0283-move-zeroes](https://github.com/gouravkumar17/LeetCode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/gouravkumar17/LeetCode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gouravkumar17/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -113,6 +114,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/gouravkumar17/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gouravkumar17/LeetCode/tree/master/0344-reverse-string) |
 | [2551-apply-operations-to-an-array](https://github.com/gouravkumar17/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/gouravkumar17/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
