@@ -8,7 +8,7 @@ class Solution {
             }
         }
         int ans[] = new int[2];
-        for(int i=1;i<n*n;i++){
+        for(int i=1;i<=n*n;i++){
             if(arr[i]==2) ans[0] = i;
             else if(arr[i]==0) ans[1] = i;
         }
