@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/gouravkumar17/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/gouravkumar17/LeetCode/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gouravkumar17/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/gouravkumar17/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gouravkumar17/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/gouravkumar17/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gouravkumar17/LeetCode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/gouravkumar17/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gouravkumar17/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gouravkumar17/LeetCode/tree/master/0344-reverse-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/gouravkumar17/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -194,6 +196,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/gouravkumar17/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/gouravkumar17/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/gouravkumar17/LeetCode/tree/master/0189-rotate-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/gouravkumar17/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/gouravkumar17/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/gouravkumar17/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
