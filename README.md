@@ -184,6 +184,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gouravkumar17/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/gouravkumar17/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gouravkumar17/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/gouravkumar17/LeetCode/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/gouravkumar17/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -253,6 +254,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/gouravkumar17/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/gouravkumar17/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/gouravkumar17/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/gouravkumar17/LeetCode/tree/master/0189-rotate-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/gouravkumar17/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/gouravkumar17/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
