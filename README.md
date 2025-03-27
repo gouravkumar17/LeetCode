@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/gouravkumar17/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/gouravkumar17/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0792-binary-search](https://github.com/gouravkumar17/LeetCode/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/gouravkumar17/LeetCode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gouravkumar17/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -182,6 +183,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gouravkumar17/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0792-binary-search](https://github.com/gouravkumar17/LeetCode/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/gouravkumar17/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gouravkumar17/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/gouravkumar17/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
