@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/gouravkumar17/LeetCode/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gouravkumar17/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/gouravkumar17/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/gouravkumar17/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/gouravkumar17/LeetCode/tree/master/0066-plus-one) |
@@ -182,6 +183,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gouravkumar17/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gouravkumar17/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/gouravkumar17/LeetCode/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/gouravkumar17/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
