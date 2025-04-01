@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gouravkumar17/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/gouravkumar17/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/gouravkumar17/LeetCode/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/gouravkumar17/LeetCode/tree/master/0768-partition-labels) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -174,6 +175,7 @@
 | [0031-next-permutation](https://github.com/gouravkumar17/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/gouravkumar17/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/gouravkumar17/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/gouravkumar17/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/gouravkumar17/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gouravkumar17/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gouravkumar17/LeetCode/tree/master/0344-reverse-string) |
