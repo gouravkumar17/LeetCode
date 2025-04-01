@@ -80,6 +80,7 @@
 | [0125-valid-palindrome](https://github.com/gouravkumar17/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/gouravkumar17/LeetCode/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/gouravkumar17/LeetCode/tree/master/0768-partition-labels) |
+| [0812-rotate-string](https://github.com/gouravkumar17/LeetCode/tree/master/0812-rotate-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/gouravkumar17/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/gouravkumar17/LeetCode/tree/master/1170-shortest-common-supersequence) |
@@ -393,4 +394,8 @@
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/gouravkumar17/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/gouravkumar17/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
