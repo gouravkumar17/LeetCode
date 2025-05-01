@@ -519,4 +519,8 @@
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/gouravkumar17/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/gouravkumar17/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
