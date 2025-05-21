@@ -112,6 +112,7 @@
 | [0014-longest-common-prefix](https://github.com/gouravkumar17/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/gouravkumar17/LeetCode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/gouravkumar17/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/gouravkumar17/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gouravkumar17/LeetCode/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/gouravkumar17/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/gouravkumar17/LeetCode/tree/master/0812-rotate-string) |
@@ -190,6 +191,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/gouravkumar17/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/gouravkumar17/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/gouravkumar17/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/gouravkumar17/LeetCode/tree/master/0242-valid-anagram) |
 | [0768-partition-labels](https://github.com/gouravkumar17/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/gouravkumar17/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gouravkumar17/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -247,6 +249,7 @@
 | [0088-merge-sorted-array](https://github.com/gouravkumar17/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gouravkumar17/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gouravkumar17/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/gouravkumar17/LeetCode/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/gouravkumar17/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/gouravkumar17/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/gouravkumar17/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
