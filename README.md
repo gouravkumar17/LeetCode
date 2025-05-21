@@ -122,6 +122,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/gouravkumar17/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gouravkumar17/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gouravkumar17/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1894-merge-strings-alternately](https://github.com/gouravkumar17/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/gouravkumar17/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/gouravkumar17/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/gouravkumar17/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -237,6 +238,7 @@
 | [0283-move-zeroes](https://github.com/gouravkumar17/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gouravkumar17/LeetCode/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/gouravkumar17/LeetCode/tree/master/0768-partition-labels) |
+| [1894-merge-strings-alternately](https://github.com/gouravkumar17/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/gouravkumar17/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/gouravkumar17/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/gouravkumar17/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
