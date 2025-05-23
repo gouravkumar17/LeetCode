@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gouravkumar17/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/gouravkumar17/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/gouravkumar17/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/gouravkumar17/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/gouravkumar17/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/gouravkumar17/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/gouravkumar17/LeetCode/tree/master/0078-subsets) |
@@ -418,6 +419,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/gouravkumar17/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0768-partition-labels](https://github.com/gouravkumar17/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/gouravkumar17/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -468,6 +470,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gouravkumar17/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/gouravkumar17/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gouravkumar17/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0368-largest-divisible-subset](https://github.com/gouravkumar17/LeetCode/tree/master/0368-largest-divisible-subset) |
