@@ -23,6 +23,7 @@
 | [0169-majority-element](https://github.com/gouravkumar17/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/gouravkumar17/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gouravkumar17/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/gouravkumar17/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/gouravkumar17/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/gouravkumar17/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/gouravkumar17/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -140,6 +141,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/gouravkumar17/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/gouravkumar17/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/gouravkumar17/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gouravkumar17/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
