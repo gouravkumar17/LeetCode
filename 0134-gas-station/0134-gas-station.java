@@ -5,8 +5,9 @@ class Solution {
         int a = 0;
         int id = 0;
         for(int i=0;i<n;i++){
-            t += gas[i]-cost[i];
-            a += gas[i]-cost[i];
+            int c = gas[i]-cost[i];
+            t += c;
+            a += c;
             if(a<0){
                 a = 0;
                 id = i+1;
