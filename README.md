@@ -118,6 +118,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/gouravkumar17/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/gouravkumar17/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/gouravkumar17/LeetCode/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/gouravkumar17/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/gouravkumar17/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/gouravkumar17/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gouravkumar17/LeetCode/tree/master/0344-reverse-string) |
