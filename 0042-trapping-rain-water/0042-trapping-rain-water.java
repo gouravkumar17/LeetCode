@@ -9,14 +9,7 @@ class Solution {
         while(l<r){
             lmax = Math.max(lmax,height[l]);
             rmax = Math.max(rmax,height[r]);
-            if(lmax<rmax){
-                ans += lmax-height[l];
-                l++;
-            }
-            else{
-                ans += rmax-height[r];
-                r--;
-            }
+            ans += (lmax<rmax) ? lmax-height[l++] : rmax-height[r--];
         }
         return ans;
     }
