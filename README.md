@@ -117,6 +117,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gouravkumar17/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/gouravkumar17/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gouravkumar17/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/gouravkumar17/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/gouravkumar17/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/gouravkumar17/LeetCode/tree/master/0125-valid-palindrome) |
@@ -240,6 +241,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gouravkumar17/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gouravkumar17/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gouravkumar17/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/gouravkumar17/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/gouravkumar17/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/gouravkumar17/LeetCode/tree/master/0075-sort-colors) |
@@ -523,6 +525,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gouravkumar17/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/gouravkumar17/LeetCode/tree/master/0812-rotate-string) |
 ## Combinatorics
 |  |
