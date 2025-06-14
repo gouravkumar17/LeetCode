@@ -364,6 +364,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/gouravkumar17/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/gouravkumar17/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/gouravkumar17/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/gouravkumar17/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/gouravkumar17/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
@@ -548,6 +549,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/gouravkumar17/LeetCode/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/gouravkumar17/LeetCode/tree/master/2050-count-good-numbers) |
 ## Quickselect
 |  |
