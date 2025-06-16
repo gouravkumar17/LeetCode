@@ -26,6 +26,7 @@
 | [0162-find-peak-element](https://github.com/gouravkumar17/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/gouravkumar17/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/gouravkumar17/LeetCode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/gouravkumar17/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gouravkumar17/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/gouravkumar17/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/gouravkumar17/LeetCode/tree/master/0274-h-index) |
@@ -151,6 +152,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/gouravkumar17/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/gouravkumar17/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/gouravkumar17/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/gouravkumar17/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -293,6 +295,7 @@
 | [0069-sqrtx](https://github.com/gouravkumar17/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gouravkumar17/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gouravkumar17/LeetCode/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/gouravkumar17/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/gouravkumar17/LeetCode/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/gouravkumar17/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2280-count-good-triplets-in-an-array](https://github.com/gouravkumar17/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -457,6 +460,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gouravkumar17/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/gouravkumar17/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gouravkumar17/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/gouravkumar17/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gouravkumar17/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
