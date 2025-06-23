@@ -58,6 +58,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/gouravkumar17/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/gouravkumar17/LeetCode/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/gouravkumar17/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1833-find-the-highest-altitude](https://github.com/gouravkumar17/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/gouravkumar17/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/gouravkumar17/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gouravkumar17/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -174,6 +175,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gouravkumar17/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/gouravkumar17/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/gouravkumar17/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1833-find-the-highest-altitude](https://github.com/gouravkumar17/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2145-grid-game](https://github.com/gouravkumar17/LeetCode/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/gouravkumar17/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gouravkumar17/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
