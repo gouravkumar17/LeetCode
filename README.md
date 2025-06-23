@@ -595,6 +595,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/gouravkumar17/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/gouravkumar17/LeetCode/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/gouravkumar17/LeetCode/tree/master/2050-count-good-numbers) |
 ## Quickselect
 |  |
@@ -647,4 +648,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gouravkumar17/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/gouravkumar17/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
