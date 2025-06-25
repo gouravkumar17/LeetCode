@@ -91,6 +91,7 @@
 | [2690-house-robber-iv](https://github.com/gouravkumar17/LeetCode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gouravkumar17/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/gouravkumar17/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2714-left-and-right-sum-differences](https://github.com/gouravkumar17/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gouravkumar17/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/gouravkumar17/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gouravkumar17/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -179,6 +180,7 @@
 | [2145-grid-game](https://github.com/gouravkumar17/LeetCode/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/gouravkumar17/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gouravkumar17/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2714-left-and-right-sum-differences](https://github.com/gouravkumar17/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2915-count-of-interesting-subarrays](https://github.com/gouravkumar17/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gouravkumar17/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/gouravkumar17/LeetCode/tree/master/3643-zero-array-transformation-ii) |
