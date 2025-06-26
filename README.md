@@ -122,6 +122,7 @@
 | ------- |
 | [0078-subsets](https://github.com/gouravkumar17/LeetCode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/gouravkumar17/LeetCode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/gouravkumar17/LeetCode/tree/master/0191-number-of-1-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gouravkumar17/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gouravkumar17/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/gouravkumar17/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -537,6 +538,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/gouravkumar17/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/gouravkumar17/LeetCode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/gouravkumar17/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gouravkumar17/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/gouravkumar17/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
