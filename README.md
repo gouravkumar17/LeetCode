@@ -123,6 +123,7 @@
 | [0078-subsets](https://github.com/gouravkumar17/LeetCode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/gouravkumar17/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/gouravkumar17/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/gouravkumar17/LeetCode/tree/master/0338-counting-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gouravkumar17/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gouravkumar17/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/gouravkumar17/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -550,6 +551,7 @@
 | [0055-jump-game](https://github.com/gouravkumar17/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gouravkumar17/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/gouravkumar17/LeetCode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/gouravkumar17/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/gouravkumar17/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/gouravkumar17/LeetCode/tree/master/0416-partition-equal-subset-sum) |
