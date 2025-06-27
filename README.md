@@ -61,6 +61,7 @@
 | [1656-count-good-triplets](https://github.com/gouravkumar17/LeetCode/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/gouravkumar17/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/gouravkumar17/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1839-decode-xored-array](https://github.com/gouravkumar17/LeetCode/tree/master/1839-decode-xored-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/gouravkumar17/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/gouravkumar17/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gouravkumar17/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -127,6 +128,7 @@
 | [0190-reverse-bits](https://github.com/gouravkumar17/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/gouravkumar17/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/gouravkumar17/LeetCode/tree/master/0338-counting-bits) |
+| [1839-decode-xored-array](https://github.com/gouravkumar17/LeetCode/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gouravkumar17/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gouravkumar17/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/gouravkumar17/LeetCode/tree/master/2478-longest-nice-subarray) |
