@@ -130,6 +130,7 @@
 | [0191-number-of-1-bits](https://github.com/gouravkumar17/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/gouravkumar17/LeetCode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/gouravkumar17/LeetCode/tree/master/0338-counting-bits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/gouravkumar17/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1839-decode-xored-array](https://github.com/gouravkumar17/LeetCode/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gouravkumar17/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gouravkumar17/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -426,6 +427,7 @@
 | [0189-rotate-array](https://github.com/gouravkumar17/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/gouravkumar17/LeetCode/tree/master/0258-add-digits) |
 | [0368-largest-divisible-subset](https://github.com/gouravkumar17/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/gouravkumar17/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0797-rabbits-in-forest](https://github.com/gouravkumar17/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gouravkumar17/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gouravkumar17/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
