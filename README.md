@@ -341,6 +341,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gouravkumar17/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gouravkumar17/LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/gouravkumar17/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/gouravkumar17/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/gouravkumar17/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/gouravkumar17/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/gouravkumar17/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -427,6 +428,7 @@
 | [0189-rotate-array](https://github.com/gouravkumar17/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/gouravkumar17/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/gouravkumar17/LeetCode/tree/master/0263-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/gouravkumar17/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/gouravkumar17/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gouravkumar17/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0797-rabbits-in-forest](https://github.com/gouravkumar17/LeetCode/tree/master/0797-rabbits-in-forest) |
