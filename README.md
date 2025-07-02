@@ -94,6 +94,7 @@
 | [2681-put-marbles-in-bags](https://github.com/gouravkumar17/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/gouravkumar17/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/gouravkumar17/LeetCode/tree/master/2690-house-robber-iv) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/gouravkumar17/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gouravkumar17/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/gouravkumar17/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/gouravkumar17/LeetCode/tree/master/2714-left-and-right-sum-differences) |
@@ -269,6 +270,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gouravkumar17/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/gouravkumar17/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/gouravkumar17/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/gouravkumar17/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/gouravkumar17/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gouravkumar17/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/gouravkumar17/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -327,6 +329,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gouravkumar17/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/gouravkumar17/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/gouravkumar17/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/gouravkumar17/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/gouravkumar17/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/gouravkumar17/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/gouravkumar17/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -447,6 +450,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/gouravkumar17/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/gouravkumar17/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/gouravkumar17/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/gouravkumar17/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/gouravkumar17/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/gouravkumar17/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/gouravkumar17/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -500,6 +504,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gouravkumar17/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/gouravkumar17/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/gouravkumar17/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/gouravkumar17/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/gouravkumar17/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Greedy
 |  |
@@ -582,6 +587,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/gouravkumar17/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/gouravkumar17/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/gouravkumar17/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/gouravkumar17/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/gouravkumar17/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Monotonic Stack
 |  |
@@ -614,6 +620,7 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gouravkumar17/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/gouravkumar17/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/gouravkumar17/LeetCode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3548-find-the-count-of-good-integers](https://github.com/gouravkumar17/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
