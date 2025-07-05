@@ -133,6 +133,7 @@
 | [0191-number-of-1-bits](https://github.com/gouravkumar17/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/gouravkumar17/LeetCode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/gouravkumar17/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/gouravkumar17/LeetCode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gouravkumar17/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1839-decode-xored-array](https://github.com/gouravkumar17/LeetCode/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gouravkumar17/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -436,6 +437,7 @@
 | [0189-rotate-array](https://github.com/gouravkumar17/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/gouravkumar17/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/gouravkumar17/LeetCode/tree/master/0263-ugly-number) |
+| [0342-power-of-four](https://github.com/gouravkumar17/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/gouravkumar17/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/gouravkumar17/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gouravkumar17/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -645,6 +647,7 @@
 | [0050-powx-n](https://github.com/gouravkumar17/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/gouravkumar17/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/gouravkumar17/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/gouravkumar17/LeetCode/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/gouravkumar17/LeetCode/tree/master/2050-count-good-numbers) |
 ## Quickselect
 |  |
