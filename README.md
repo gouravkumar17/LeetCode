@@ -41,6 +41,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/gouravkumar17/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/gouravkumar17/LeetCode/tree/master/0455-assign-cookies) |
+| [0495-teemo-attacking](https://github.com/gouravkumar17/LeetCode/tree/master/0495-teemo-attacking) |
 | [0560-subarray-sum-equals-k](https://github.com/gouravkumar17/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/gouravkumar17/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/gouravkumar17/LeetCode/tree/master/0792-binary-search) |
@@ -467,6 +468,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/gouravkumar17/LeetCode/tree/master/0258-add-digits) |
+| [0495-teemo-attacking](https://github.com/gouravkumar17/LeetCode/tree/master/0495-teemo-attacking) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/gouravkumar17/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/gouravkumar17/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/gouravkumar17/LeetCode/tree/master/2551-apply-operations-to-an-array) |
