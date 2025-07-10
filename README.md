@@ -445,6 +445,7 @@
 | [0368-largest-divisible-subset](https://github.com/gouravkumar17/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gouravkumar17/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/gouravkumar17/LeetCode/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/gouravkumar17/LeetCode/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0598-range-addition-ii) |
 | [0797-rabbits-in-forest](https://github.com/gouravkumar17/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gouravkumar17/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
