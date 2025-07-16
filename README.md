@@ -358,6 +358,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gouravkumar17/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gouravkumar17/LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/gouravkumar17/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/gouravkumar17/LeetCode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/gouravkumar17/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/gouravkumar17/LeetCode/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/gouravkumar17/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -719,4 +720,8 @@
 | [0141-linked-list-cycle](https://github.com/gouravkumar17/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/gouravkumar17/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/gouravkumar17/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/gouravkumar17/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
