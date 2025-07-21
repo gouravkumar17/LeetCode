@@ -48,6 +48,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/gouravkumar17/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/gouravkumar17/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/gouravkumar17/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/gouravkumar17/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/gouravkumar17/LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/gouravkumar17/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/gouravkumar17/LeetCode/tree/master/0854-making-a-large-island) |
@@ -337,6 +338,7 @@
 | [0274-h-index](https://github.com/gouravkumar17/LeetCode/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/gouravkumar17/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/gouravkumar17/LeetCode/tree/master/0455-assign-cookies) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/gouravkumar17/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/gouravkumar17/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/gouravkumar17/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
