@@ -169,6 +169,7 @@
 | [0392-is-subsequence](https://github.com/gouravkumar17/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/gouravkumar17/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gouravkumar17/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0504-base-7](https://github.com/gouravkumar17/LeetCode/tree/master/0504-base-7) |
 | [0768-partition-labels](https://github.com/gouravkumar17/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/gouravkumar17/LeetCode/tree/master/0812-rotate-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -460,6 +461,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gouravkumar17/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/gouravkumar17/LeetCode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/gouravkumar17/LeetCode/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/gouravkumar17/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/gouravkumar17/LeetCode/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0598-range-addition-ii) |
 | [0797-rabbits-in-forest](https://github.com/gouravkumar17/LeetCode/tree/master/0797-rabbits-in-forest) |
