@@ -170,6 +170,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/gouravkumar17/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gouravkumar17/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0504-base-7](https://github.com/gouravkumar17/LeetCode/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/gouravkumar17/LeetCode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0768-partition-labels](https://github.com/gouravkumar17/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/gouravkumar17/LeetCode/tree/master/0812-rotate-string) |
