@@ -146,6 +146,7 @@
 | [0338-counting-bits](https://github.com/gouravkumar17/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/gouravkumar17/LeetCode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gouravkumar17/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/gouravkumar17/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1839-decode-xored-array](https://github.com/gouravkumar17/LeetCode/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gouravkumar17/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gouravkumar17/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -469,6 +470,7 @@
 | [0504-base-7](https://github.com/gouravkumar17/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/gouravkumar17/LeetCode/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0598-range-addition-ii) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/gouravkumar17/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/gouravkumar17/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1031-add-to-array-form-of-integer](https://github.com/gouravkumar17/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gouravkumar17/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
