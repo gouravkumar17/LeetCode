@@ -472,6 +472,7 @@
 | [0598-range-addition-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0598-range-addition-ii) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/gouravkumar17/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/gouravkumar17/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0866-rectangle-overlap](https://github.com/gouravkumar17/LeetCode/tree/master/0866-rectangle-overlap) |
 | [1031-add-to-array-form-of-integer](https://github.com/gouravkumar17/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gouravkumar17/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gouravkumar17/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -749,4 +750,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/gouravkumar17/LeetCode/tree/master/0292-nim-game) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/gouravkumar17/LeetCode/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
