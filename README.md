@@ -52,6 +52,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/gouravkumar17/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/gouravkumar17/LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/gouravkumar17/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0824-number-of-lines-to-write-string](https://github.com/gouravkumar17/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0854-making-a-large-island](https://github.com/gouravkumar17/LeetCode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gouravkumar17/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/gouravkumar17/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -176,6 +177,7 @@
 | [0541-reverse-string-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0768-partition-labels](https://github.com/gouravkumar17/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/gouravkumar17/LeetCode/tree/master/0812-rotate-string) |
+| [0824-number-of-lines-to-write-string](https://github.com/gouravkumar17/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gouravkumar17/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/gouravkumar17/LeetCode/tree/master/1160-letter-tile-possibilities) |
