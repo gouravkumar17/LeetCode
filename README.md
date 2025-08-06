@@ -65,6 +65,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/gouravkumar17/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/gouravkumar17/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gouravkumar17/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1115-valid-boomerang](https://github.com/gouravkumar17/LeetCode/tree/master/1115-valid-boomerang) |
 | [1168-duplicate-zeros](https://github.com/gouravkumar17/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/gouravkumar17/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/gouravkumar17/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -481,6 +482,7 @@
 | [0866-rectangle-overlap](https://github.com/gouravkumar17/LeetCode/tree/master/0866-rectangle-overlap) |
 | [1018-largest-perimeter-triangle](https://github.com/gouravkumar17/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/gouravkumar17/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1115-valid-boomerang](https://github.com/gouravkumar17/LeetCode/tree/master/1115-valid-boomerang) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gouravkumar17/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gouravkumar17/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/gouravkumar17/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -762,4 +764,5 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/gouravkumar17/LeetCode/tree/master/0866-rectangle-overlap) |
+| [1115-valid-boomerang](https://github.com/gouravkumar17/LeetCode/tree/master/1115-valid-boomerang) |
 <!---LeetCode Topics End-->
