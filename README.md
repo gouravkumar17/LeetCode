@@ -185,6 +185,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/gouravkumar17/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/gouravkumar17/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/gouravkumar17/LeetCode/tree/master/1170-shortest-common-supersequence) |
+| [1260-day-of-the-year](https://github.com/gouravkumar17/LeetCode/tree/master/1260-day-of-the-year) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/gouravkumar17/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gouravkumar17/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gouravkumar17/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -484,6 +485,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/gouravkumar17/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1115-valid-boomerang](https://github.com/gouravkumar17/LeetCode/tree/master/1115-valid-boomerang) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gouravkumar17/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1260-day-of-the-year](https://github.com/gouravkumar17/LeetCode/tree/master/1260-day-of-the-year) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gouravkumar17/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/gouravkumar17/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/gouravkumar17/LeetCode/tree/master/1500-count-largest-group) |
