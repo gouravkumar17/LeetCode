@@ -487,6 +487,7 @@
 | [1115-valid-boomerang](https://github.com/gouravkumar17/LeetCode/tree/master/1115-valid-boomerang) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gouravkumar17/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/gouravkumar17/LeetCode/tree/master/1260-day-of-the-year) |
+| [1279-prime-arrangements](https://github.com/gouravkumar17/LeetCode/tree/master/1279-prime-arrangements) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gouravkumar17/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/gouravkumar17/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/gouravkumar17/LeetCode/tree/master/1500-count-largest-group) |
