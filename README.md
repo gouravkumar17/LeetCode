@@ -65,6 +65,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/gouravkumar17/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/gouravkumar17/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gouravkumar17/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/gouravkumar17/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1115-valid-boomerang](https://github.com/gouravkumar17/LeetCode/tree/master/1115-valid-boomerang) |
 | [1168-duplicate-zeros](https://github.com/gouravkumar17/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/gouravkumar17/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -572,6 +573,7 @@
 | [0768-partition-labels](https://github.com/gouravkumar17/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/gouravkumar17/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/gouravkumar17/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/gouravkumar17/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/gouravkumar17/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/gouravkumar17/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/gouravkumar17/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
