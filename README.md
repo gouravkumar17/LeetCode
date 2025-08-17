@@ -73,6 +73,7 @@
 | [1396-count-servers-that-communicate](https://github.com/gouravkumar17/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gouravkumar17/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/gouravkumar17/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1505-create-target-array-in-the-given-order](https://github.com/gouravkumar17/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/gouravkumar17/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/gouravkumar17/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/gouravkumar17/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -514,6 +515,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/gouravkumar17/LeetCode/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/gouravkumar17/LeetCode/tree/master/0495-teemo-attacking) |
+| [1505-create-target-array-in-the-given-order](https://github.com/gouravkumar17/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/gouravkumar17/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/gouravkumar17/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/gouravkumar17/LeetCode/tree/master/2551-apply-operations-to-an-array) |
