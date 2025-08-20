@@ -174,6 +174,7 @@
 | [0242-valid-anagram](https://github.com/gouravkumar17/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gouravkumar17/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gouravkumar17/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/gouravkumar17/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/gouravkumar17/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/gouravkumar17/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gouravkumar17/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -274,6 +275,7 @@
 | [0141-linked-list-cycle](https://github.com/gouravkumar17/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/gouravkumar17/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/gouravkumar17/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/gouravkumar17/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/gouravkumar17/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gouravkumar17/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/gouravkumar17/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -431,6 +433,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gouravkumar17/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/gouravkumar17/LeetCode/tree/master/0383-ransom-note) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gouravkumar17/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/gouravkumar17/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/gouravkumar17/LeetCode/tree/master/1364-tuple-with-same-product) |
