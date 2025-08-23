@@ -173,6 +173,7 @@
 | [0168-excel-sheet-column-title](https://github.com/gouravkumar17/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/gouravkumar17/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/gouravkumar17/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/gouravkumar17/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/gouravkumar17/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gouravkumar17/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/gouravkumar17/LeetCode/tree/master/0383-ransom-note) |
@@ -277,6 +278,7 @@
 | [0169-majority-element](https://github.com/gouravkumar17/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/gouravkumar17/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/gouravkumar17/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/gouravkumar17/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/gouravkumar17/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/gouravkumar17/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gouravkumar17/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
