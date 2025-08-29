@@ -25,6 +25,7 @@
 | [0119-pascals-triangle-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gouravkumar17/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/gouravkumar17/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/gouravkumar17/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/gouravkumar17/LeetCode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0137-single-number-ii) |
@@ -277,6 +278,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/gouravkumar17/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/gouravkumar17/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/gouravkumar17/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/gouravkumar17/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/gouravkumar17/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/gouravkumar17/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/gouravkumar17/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -428,6 +430,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/gouravkumar17/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/gouravkumar17/LeetCode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/gouravkumar17/LeetCode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/gouravkumar17/LeetCode/tree/master/1396-count-servers-that-communicate) |
