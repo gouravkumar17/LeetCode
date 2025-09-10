@@ -243,6 +243,7 @@
 | [0101-symmetric-tree](https://github.com/gouravkumar17/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gouravkumar17/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/gouravkumar17/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/gouravkumar17/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/gouravkumar17/LeetCode/tree/master/0684-redundant-connection) |
@@ -433,6 +434,7 @@
 | [0100-same-tree](https://github.com/gouravkumar17/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/gouravkumar17/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gouravkumar17/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/gouravkumar17/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/gouravkumar17/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0684-redundant-connection](https://github.com/gouravkumar17/LeetCode/tree/master/0684-redundant-connection) |
@@ -648,6 +650,7 @@
 | [0101-symmetric-tree](https://github.com/gouravkumar17/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gouravkumar17/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/gouravkumar17/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/gouravkumar17/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -663,6 +666,7 @@
 | [0101-symmetric-tree](https://github.com/gouravkumar17/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gouravkumar17/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/gouravkumar17/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/gouravkumar17/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
