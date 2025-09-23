@@ -11,7 +11,7 @@ class Solution {
                 i = m;
                 r = m-1;
             }
-            else m = l+1;
+            else l = m+1;
         }
         return i;
     }
