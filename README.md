@@ -512,6 +512,7 @@
 | [0050-powx-n](https://github.com/gouravkumar17/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/gouravkumar17/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/gouravkumar17/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/gouravkumar17/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gouravkumar17/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/gouravkumar17/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/gouravkumar17/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
@@ -701,6 +702,7 @@
 | [0042-trapping-rain-water](https://github.com/gouravkumar17/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gouravkumar17/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/gouravkumar17/LeetCode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gouravkumar17/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -850,4 +852,8 @@
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gouravkumar17/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/gouravkumar17/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
