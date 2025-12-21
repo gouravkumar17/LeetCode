@@ -42,6 +42,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/gouravkumar17/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gouravkumar17/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/gouravkumar17/LeetCode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/gouravkumar17/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/gouravkumar17/LeetCode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/gouravkumar17/LeetCode/tree/master/0274-h-index) |
@@ -299,6 +300,7 @@
 | [0141-linked-list-cycle](https://github.com/gouravkumar17/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/gouravkumar17/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/gouravkumar17/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/gouravkumar17/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/gouravkumar17/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/gouravkumar17/LeetCode/tree/master/0383-ransom-note) |
@@ -386,6 +388,7 @@
 | [0088-merge-sorted-array](https://github.com/gouravkumar17/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gouravkumar17/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gouravkumar17/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/gouravkumar17/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/gouravkumar17/LeetCode/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/gouravkumar17/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -475,6 +478,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gouravkumar17/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/gouravkumar17/LeetCode/tree/master/0383-ransom-note) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gouravkumar17/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/gouravkumar17/LeetCode/tree/master/1160-letter-tile-possibilities) |
