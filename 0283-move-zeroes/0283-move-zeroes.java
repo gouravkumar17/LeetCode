@@ -12,18 +12,34 @@ class Solution {
         // }
 
 
+        // int n = nums.length;
+        // if(n==0) return;
+        // int pos = 0;
+        // for(int num:nums){
+        //     if(num!=0){
+        //         nums[pos] = num;
+        //         pos++;
+        //     }
+        // }
+        // while(pos<n){
+        //     nums[pos] = 0;
+        //     pos++;
+        // }
+
+
+
         int n = nums.length;
-        if(n==0) return;
-        int pos = 0;
-        for(int num:nums){
-            if(num!=0){
-                nums[pos] = num;
-                pos++;
-            }
+        int count = 0;
+        List<Integer> ans = new ArrayList<>();
+        for(int i=0;i<n;i++){
+            if(nums[i]!=0) ans.add(nums[i]);
+            else count++;
         }
-        while(pos<n){
-            nums[pos] = 0;
-            pos++;
+        for(int i=0;i<count;i++){
+            ans.add(0);
+        }
+        for(int i=0;i<n;i++){
+            nums[i] = ans.get(i);
         }
     }
 }
