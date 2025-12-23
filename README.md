@@ -53,6 +53,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/gouravkumar17/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/gouravkumar17/LeetCode/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/gouravkumar17/LeetCode/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/gouravkumar17/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/gouravkumar17/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0598-range-addition-ii](https://github.com/gouravkumar17/LeetCode/tree/master/0598-range-addition-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/gouravkumar17/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -306,6 +307,7 @@
 | [0383-ransom-note](https://github.com/gouravkumar17/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/gouravkumar17/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gouravkumar17/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/gouravkumar17/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/gouravkumar17/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/gouravkumar17/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/gouravkumar17/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -597,6 +599,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gouravkumar17/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/gouravkumar17/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/gouravkumar17/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/gouravkumar17/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/gouravkumar17/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/gouravkumar17/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -730,6 +733,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gouravkumar17/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/gouravkumar17/LeetCode/tree/master/0496-next-greater-element-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/gouravkumar17/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Number Theory
 |  |
