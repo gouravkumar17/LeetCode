@@ -19,6 +19,6 @@ class Solution {
                 if(sum<=0) return ans;
             }
         }
-        return sum;
+        return ans;
     }
 }
