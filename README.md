@@ -454,6 +454,7 @@
 | [0112-path-sum](https://github.com/gouravkumar17/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/gouravkumar17/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gouravkumar17/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gouravkumar17/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0684-redundant-connection](https://github.com/gouravkumar17/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/gouravkumar17/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -677,6 +678,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/gouravkumar17/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/gouravkumar17/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gouravkumar17/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gouravkumar17/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -695,6 +697,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/gouravkumar17/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/gouravkumar17/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gouravkumar17/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gouravkumar17/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
