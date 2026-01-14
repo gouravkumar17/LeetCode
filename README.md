@@ -96,6 +96,7 @@
 | [1876-map-of-highest-peak](https://github.com/gouravkumar17/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gouravkumar17/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/gouravkumar17/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/gouravkumar17/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gouravkumar17/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/gouravkumar17/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/gouravkumar17/LeetCode/tree/master/2145-grid-game) |
@@ -576,6 +577,7 @@
 | [0258-add-digits](https://github.com/gouravkumar17/LeetCode/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/gouravkumar17/LeetCode/tree/master/0495-teemo-attacking) |
 | [1505-create-target-array-in-the-given-order](https://github.com/gouravkumar17/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1929-concatenation-of-array](https://github.com/gouravkumar17/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/gouravkumar17/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/gouravkumar17/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/gouravkumar17/LeetCode/tree/master/2551-apply-operations-to-an-array) |
