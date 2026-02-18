@@ -169,6 +169,7 @@
 | [0338-counting-bits](https://github.com/gouravkumar17/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/gouravkumar17/LeetCode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gouravkumar17/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0693-binary-number-with-alternating-bits](https://github.com/gouravkumar17/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/gouravkumar17/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1839-decode-xored-array](https://github.com/gouravkumar17/LeetCode/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gouravkumar17/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
