@@ -67,6 +67,7 @@
 | [0797-rabbits-in-forest](https://github.com/gouravkumar17/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0824-number-of-lines-to-write-string](https://github.com/gouravkumar17/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0854-making-a-large-island](https://github.com/gouravkumar17/LeetCode/tree/master/0854-making-a-large-island) |
+| [0877-stone-game](https://github.com/gouravkumar17/LeetCode/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gouravkumar17/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/gouravkumar17/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gouravkumar17/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -549,6 +550,7 @@
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/gouravkumar17/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/gouravkumar17/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0866-rectangle-overlap](https://github.com/gouravkumar17/LeetCode/tree/master/0866-rectangle-overlap) |
+| [0877-stone-game](https://github.com/gouravkumar17/LeetCode/tree/master/0877-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/gouravkumar17/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/gouravkumar17/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1115-valid-boomerang](https://github.com/gouravkumar17/LeetCode/tree/master/1115-valid-boomerang) |
@@ -735,6 +737,7 @@
 | [0368-largest-divisible-subset](https://github.com/gouravkumar17/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/gouravkumar17/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/gouravkumar17/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0877-stone-game](https://github.com/gouravkumar17/LeetCode/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gouravkumar17/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/gouravkumar17/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/gouravkumar17/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -869,6 +872,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/gouravkumar17/LeetCode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/gouravkumar17/LeetCode/tree/master/0877-stone-game) |
 ## Geometry
 |  |
 | ------- |
